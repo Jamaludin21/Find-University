@@ -1,8 +1,16 @@
-# React + Vite
+Author: Jamaludin21
+Email: jamaludinhakim21@gmail.com
+Linkedin: linkedin.com/in/jamaludin-hakim-harsoyo-5a86a2240
+Test for React.js developer (Find-University)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Create web based application using React.JS
+where involving:
 
-Currently, two official plugins are available:
+- creating React component with props, state, and event handling
+- integrating CSS (CSS in JS or styled-components) into React component
+- fetching data from Public API and displaying it within React component (you can using free public
+  API ex: Weather API, OMDB, etc)
+- creating unit testing using a testing library like Jest or React testing library
+- writing clean, maintainable and well-documented react code
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+After finish upload code to GitHub (don't forget to include .env file)
